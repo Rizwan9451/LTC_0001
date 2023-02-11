@@ -63,18 +63,7 @@ const Hero = () => {
             >
               <img className="w-7 h-7" src={linkedIn} alt="linkedIn" />
             </a>
-            <a
-              className="bg-white hover:scale-50 transition-all duration-75 delay-75 rounded-full mx-2"
-              href="https://fb.com/darlington.gospel01"
-            >
-              <img className="w-7 h-7" src={facebook} alt="facebook" />
-            </a>
-            <a
-              className="bg-white hover:scale-50 transition-all duration-75 delay-75 rounded-full mx-2"
-              href="https://twitter.com/idaltonic"
-            >
-              <img className="w-7 h-7" src={twitter} alt="twitter" />
-            </a>
+           
             
           </ul>
 
